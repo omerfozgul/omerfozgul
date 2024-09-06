@@ -1,6 +1,6 @@
 <h1 align="center">Hi there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
 <h2 align="center" style="font-weight: normal">I am Ömer Faruk Özgül</h2>
-<h3 align="center" style="font-weight: normal">Computer Engineer Student at TOBB ETU</h3>
+<h3 align="center" style="font-weight: normal">Full Stack Developer at Labris Networks</h3>
 <hr>
 
 <h3 align="center">Contact Me</h3>
